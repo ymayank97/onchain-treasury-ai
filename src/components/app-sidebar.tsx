@@ -3,10 +3,10 @@
 import * as React from 'react';
 
 import { Index } from '@/__registry__';
+import { Label } from '@/components/ui/label';
 import { NavUser } from '@/registry/new-york-v4/blocks/sidebar-07/components/nav-user';
 import { TeamSwitcher } from '@/registry/new-york-v4/blocks/sidebar-07/components/team-switcher';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/registry/new-york-v4/ui/collapsible';
-import { Label } from '@/registry/new-york-v4/ui/label';
 import {
     Sidebar,
     SidebarContent,

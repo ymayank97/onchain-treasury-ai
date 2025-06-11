@@ -2,7 +2,7 @@
 
 import * as React from 'react';
 
-import { Label } from '@/registry/new-york-v4/ui/label';
+import { Label } from '@/components/ui/label';
 import { Slider } from '@/registry/new-york-v4/ui/slider';
 
 export function SliderDemo() {

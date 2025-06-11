@@ -1,10 +1,10 @@
 import Image from 'next/image';
 
+import { Label } from '@/components/ui/label';
 import { cn } from '@/lib/utils';
 import { Button } from '@/registry/new-york-v4/ui/button';
 import { Card, CardContent } from '@/registry/new-york-v4/ui/card';
 import { Input } from '@/registry/new-york-v4/ui/input';
-import { Label } from '@/registry/new-york-v4/ui/label';
 
 export function LoginForm({
     className,

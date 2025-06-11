@@ -1,4 +1,4 @@
-import { Label } from '@/registry/new-york-v4/ui/label';
+import { Label } from '@/components/ui/label';
 import { Textarea } from '@/registry/new-york-v4/ui/textarea';
 
 export function TextareaDemo() {

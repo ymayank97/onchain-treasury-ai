@@ -1,4 +1,4 @@
-import { Label } from '@/registry/new-york-v4/ui/label';
+import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/registry/new-york-v4/ui/radio-group';
 
 const plans = [
